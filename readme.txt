@@ -14,7 +14,7 @@ This plugin allows you to add the Salence.io Pixel code to your WordPress websit
 
 This plugin has beed developed so Salence.io users can add their notification pixel to their website easily and quickly.
 
-= Features of Insert Headers and Footers =
+= Features of Salence.io Pixel =
 
 * One click Install
 * Friction-Less
